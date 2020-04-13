@@ -42,6 +42,7 @@ Starting page for the librarian displays the books that are available in the lib
 ## Built with
 
 [JAVA](https://www.java.com/en/) - Language used.
+
 [MySQL](https://www.mysql.com/) - Database used.
 
 ## Authors
